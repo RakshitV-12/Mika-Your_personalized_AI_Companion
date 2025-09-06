@@ -1,0 +1,43 @@
+# Python cache/compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Environment & secrets
+.env
+
+# Logs
+*.log
+
+# Audio responses
+response.wav
+response.mp3
+
+# Memory/state files
+memory.json
+
+# Build / distribution
+dist/
+build/
+*.egg-info/
+
+# VS Code / Visual Studio
+.vscode/
+.vs/
+*.sqlite
+
+# OS / Editor files
+*.swp
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+
+# VRM/Animaze files (if not needed in repo)
+*.vrm
